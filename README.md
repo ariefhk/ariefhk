@@ -3,6 +3,8 @@
 
 ### Hi there 👋, Welcome to my Profile :D
 
+I Like to build Mobile Apps. Currently, I learn Flutter and GetX with Firebase. My first project in Mobile Apps is in RN Btw, but switched to Android (Java) and Flutter :D 
+
 <!-- [![Ariefhk GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk)](https://github.com/anuraghazra/github-readme-stats) -->
 Skills: Flutter, Android Programming (Java), Java Desktop (J2SE), Firebase
 
@@ -11,12 +13,15 @@ Skills: Flutter, Android Programming (Java), Java Desktop (J2SE), Firebase
 - 😄 Pronouns: Yang penting logikanya.  -->
 
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ariefhk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arief-rachman-hakim-aa8415228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ariefrh.dev/)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariefhk)](https://github.com/ryo-ma/github-profile-trophy)  
 
+
 <p align="left">
-<a href="https://github.com/dwichan0905">
+<a href="https://github.com/ariefhk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariefhk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariefhk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
