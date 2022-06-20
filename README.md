@@ -3,7 +3,7 @@
 
 ### Hi there 👋, Welcome to my Profile :D
 
-[![Ariefhk GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ariefhk GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk)](https://github.com/anuraghazra/github-readme-stats) -->
 Skills: Flutter, Android Programming (Java), Java Desktop (J2SE), Firebase
 
 - 🌱 I’m currently learning Flutter, GetX,  and Android (Java)
