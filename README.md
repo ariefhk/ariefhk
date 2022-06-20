@@ -1,13 +1,13 @@
-### Hi there 👋, Welcome to my Profile :D
 
 ![alt text](https://github.com/kevmoo/dart_side/blob/master/Dash%20Dart%20PNG%20%20-%20white.png?raw=true)
 
+### Hi there 👋, Welcome to my Profile :D
 
-<!-- [![Ariefhk GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP, CodeIgniter 3)
+[![Ariefhk GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Flutter, Android Programming (Java), Java Desktop (J2SE), Firebase
 
-- 🌱 I’m currently learning Android Programming and Backend Website Programming (CodeIgniter 4)
-- 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
+- 🌱 I’m currently learning Flutter, GetX,  and Android (Java)
+<!-- - 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
 - 😄 Pronouns: Yang penting logikanya.  -->
 
 
