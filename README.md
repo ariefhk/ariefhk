@@ -1,5 +1,4 @@
 
-![alt text](https://github.com/kevmoo/dart_side/blob/master/Dash%20Dart%20PNG%20%20-%20white.png?raw=true)
 
 ### Hi there 👋, Welcome to my Profile :D
 
