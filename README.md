@@ -1,11 +1,11 @@
 
 
-### Hi there 👋, Welcome to my Profile :D
+### Hi there 👋, Welcome to my Profile
 <br>
 
 <h2>I Learn Everything, Call me Tukang Coding Serabutan :D</h2>
 <br>
-Semoga Bermanfaat 
+<p>Semoga Bermanfaat</p>
 
 <br>
 
