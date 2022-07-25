@@ -2,12 +2,8 @@
 
 ### Hi there 👋, Welcome to my Profile :D
 
-I Like to build Mobile Apps. Currently, I learn Flutter and GetX with Firebase. My first project in Mobile Apps is in RN Btw, but switched to Flutter and Android (Java) :D 
-
-Skills: Flutter, Android Programming (Java), Java Desktop (J2SE), Firebase
-
-- 🌱 I’m currently learning Flutter, GetX,  and Android (Java)
-- 😄 Pronouns: Life is A Game 
+I Learn Everything, Call me Tukang Coding Serabutan :D
+Semoga Bermanfaat 
 
 <br>
 
