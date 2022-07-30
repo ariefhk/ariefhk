@@ -2,10 +2,7 @@
 
 
 <h2>I Learn Everything, Call me Tukang Coding Serabutan :D</h2>
-<br>
-<p>Semoga Bermanfaat</p>
 
-<br>
 
 ### Let's Connect!
 
@@ -32,6 +29,11 @@
 **ariefhk/ariefhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋, Welcome to my Profile
 Here are some ideas to get you started:
+
+<br>
+<p>Semoga Bermanfaat</p>
+
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
