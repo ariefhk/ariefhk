@@ -20,7 +20,7 @@
 </a>
 </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ariefhk)  
+
 
 
 
@@ -29,7 +29,7 @@
 **ariefhk/ariefhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋, Welcome to my Profile
 Here are some ideas to get you started:
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ariefhk)  
 <br>
 <p>Semoga Bermanfaat</p>
 
