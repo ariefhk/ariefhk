@@ -1,7 +1,7 @@
 
 
 
-<h2>I Learn Everything, Call me Tukang Coding Serabutan :D</h2>
+<h2>I Learn Everything, Call me Tukang Ngoding Serabutan</h2>
 
 
 ### Let's Connect!
