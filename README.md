@@ -4,7 +4,7 @@
 <h2 align="center">I Learn Everything, Call me Tukang Ngoding Serabutan</h2>
 
 
-<p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='400' ></p>
+<p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='300' ></p>
 
 
 ### Let's Connect!
