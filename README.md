@@ -4,7 +4,7 @@
 <h1 align="center">I Learn Everything, Call me Tukang Ngoding Serabutan</h1>
 
 
-<p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='300' ></p>
+<p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='350' ></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
