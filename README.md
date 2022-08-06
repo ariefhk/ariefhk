@@ -1,7 +1,8 @@
 
 
 
-<h1 align="center">I Learn Everything, Call me Tukang Ngoding Serabutan</h1>
+<h1 align="center">Hi 👋, I'm Arief Rachman Hakim</h1>
+<h3 align="center">A passionate tukang ngoding serabutan</h3>
 
 
 <p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='350' ></p>
