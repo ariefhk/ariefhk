@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arief Rachman Hakim</h1>
-<h3 align="center">A passionate tukang ngoding serabutan</h3>
+<h2 align="center">A passionate tukang ngoding serabutan</h2>
 
 
 <p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='350' ></p>
