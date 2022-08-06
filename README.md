@@ -1,7 +1,7 @@
 
 
 
-<h2>I Learn Everything, Call me Tukang Ngoding Serabutan</h2>
+<h2 align="center">I Learn Everything, Call me Tukang Ngoding Serabutan</h2>
 
 ![](https://github.com/ariefhk/Profile/blob/main/code.gif)
 
