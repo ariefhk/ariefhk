@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Arief Rachman Hakim</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px">, I'm Arief Rachman Hakim</h1>
 <h3 align="center">A passionate tukang ngoding serabutan</h3>
 
 
