@@ -28,9 +28,9 @@
 <a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" /></a>
 </p> -->
 <p align="center">
-<img align="center"  style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefrhk" width="35px" />
-<img align="center"  style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" />
-<img align="center"  style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" />
+<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefrhk" width="35px" />
+<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" />
+<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" />
 </p>
 
 <br>
@@ -60,11 +60,11 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-</p>
+</p> -->
 
 
 
