@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Arief+Rachman+Hakim;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Arief+Rachman+Hakim;Nice+to+meet+you!&center=true&size=30em">
   </a>
 </h1>
 
