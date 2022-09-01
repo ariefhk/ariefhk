@@ -1,7 +1,13 @@
 
 
 
-<h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>
+<!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arief+Rachman+Hakim;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">A passionate tukang ngoding serabutan</h3>
 
 
