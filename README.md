@@ -2,8 +2,14 @@
 
 
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
-<h1 align="center">
+<!-- <h1 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E46FF&center=true&vCenter=true&width=435&lines=Hello%2CThere+%F0%9F%91%8B;I'm+Arief+Rachman+Hakim;Nice+to+meet+you!)](https://git.io/typing-svg)
+</h1> -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="[https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E46FF&center=true&vCenter=true&width=435&lines=Hello%2CThere+%F0%9F%91%8B;I'm+Arief+Rachman+Hakim;Nice+to+meet+you!)">
+  </a>
 </h1>
 
 <h3 align="center">A passionate tukang ngoding serabutan</h3>
