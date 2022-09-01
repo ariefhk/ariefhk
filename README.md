@@ -38,8 +38,8 @@
 
 <p align="center">
 <a href="https://github.com/ariefhk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefhk&count_private=true&show_icons=true&theme=chartreuse-dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ariefhk&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 </p>
 
