@@ -3,12 +3,16 @@
 
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
 
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&duration=3000&pause=1000&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=Hello%2CThere+%F0%9F%91%8B;I'm+Arief+Rachman+Hakim;Nice+to+meet+you!">
-  </a>
+  Hi, there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&duration=3000&pause=1000&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=I'm+Arief+Rachman+Hakim;Tukang+ngoding+serabutan;Nice+to+meet+you!">
+  </a>
+</h2>
 
 <h3 align="center">A passionate tukang ngoding serabutan</h3>
 <br>
