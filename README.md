@@ -3,10 +3,10 @@
 
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
 
-<h2 align="center">
+<h3 align="center">
   Hi, Welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
