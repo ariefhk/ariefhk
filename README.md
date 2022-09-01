@@ -3,10 +3,10 @@
 
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h1> -->
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
   </a>
 </h2>
 
-<h3 align="center">A passionate tukang ngoding serabutan</h3>
+<!-- <h3 align="center">A passionate tukang ngoding serabutan</h3> -->
 <br>
 
 <p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='300' width='350' ></p>
