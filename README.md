@@ -45,10 +45,7 @@
 
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/ariefhk/count.svg" />
-</p>
+
 
 
 <!--
