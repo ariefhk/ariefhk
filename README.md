@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">A passionate tukang ngoding serabutan</h3>
-
+<br>
 
 <p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='300' width='350' ></p>
 
@@ -39,7 +39,7 @@
 </p>
 
 
-
+<br>
 
 
 <p align="center">
