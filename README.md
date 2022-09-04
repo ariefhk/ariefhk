@@ -2,15 +2,15 @@
 
 
 <!-- <h1 align="center">Hi, I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1> -->
-
+<!-- 
 <h3 align="center">
   Hi, Welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h3> -->
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&duration=3000&pause=1000&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=Hi,+There👋;I'm+Arief+Rachman+Hakim;Road+to+Full-stack+Dev;Nice+to+meet+you😁">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&duration=3000&pause=1000&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=Hi,There👋;I'm+Arief+Rachman+Hakim;Road+to+Full-stack+Dev;Nice+to+meet+you😁">
   </a>
 </h3>
 
