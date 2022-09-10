@@ -54,7 +54,7 @@
 
 
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" />
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
 <!-- <p align="center">
 </p> -->
 <!-- <a href="https://github.com/ariefhk"></a> -->
