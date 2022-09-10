@@ -54,15 +54,15 @@
 
 <p align="center">
 <a href="https://github.com/ariefhk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariefhk&count_private=true&show_icons=true&theme=github_dark" />
+  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" />
 </a>
 </p>
 
+<!--
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariefhk&count_private=true&show_icons=true&theme=github_dark" /> 
 
-
-
-
+-->
 
 <!--
 **ariefhk/ariefhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
