@@ -35,7 +35,7 @@
 
 <br>
 <h3 align="center">Languages and Tools :</h3>
-<p align="center">
+
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Node Js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-</p>
+
 
 
 <br>
