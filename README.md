@@ -28,9 +28,9 @@
 <a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" /></a>
 </p> -->
 <p align="center">
-<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefrhk" width="35px" />
-<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" />
-<img align="center"  style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" />
+<a href="https://linkedin.com/in/ariefrhk" target="blank"  style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefrhk" width="35px" /></a>
+<a href="https://instagram.com/ariefrh.dev" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" /></a>
+<a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" /></a>
 </p>
 
 <br>
