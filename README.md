@@ -22,6 +22,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
 <h3 align="center">Let's connect with me :</h3>
+<br>
 <!-- <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"  style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefrhk" width="35px" /></a>
 <a href="https://instagram.com/ariefrh.dev" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" /></a>
