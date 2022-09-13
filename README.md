@@ -29,8 +29,8 @@
 </p> -->
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
-<a href="https://instagram.com/ariefrh.dev" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariefrh.dev"  width="35px" /></a>
-<a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mengoding id" width="35px" /></a>
+<a href="https://instagram.com/ariefrh.dev" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
+<a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
 </p>
 
 <br>
