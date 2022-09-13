@@ -36,8 +36,8 @@
 <br>
 <h3 align="center">Languages and Tools :</h3>
 ## Technologies Stack
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-<img align="center"  style="padding-right:20px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk" width="35px" />
+
+<img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
 
 
 
