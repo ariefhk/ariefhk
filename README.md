@@ -17,7 +17,7 @@
 <!-- <h3 align="center">A passionate tukang ngoding serabutan</h3> -->
 <br>
 
-<p align="center"><img src='https://github.com/ariefhk/Profile/blob/main/code.gif' alt='github' height='300' width='350' ></p>
+<p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
