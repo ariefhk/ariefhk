@@ -35,19 +35,17 @@
 
 <br>
 <h3 align="center">Languages and Tools :</h3>
-<p align="center"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35px" style="padding-right:100px;"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35px"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="35px"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35px"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35px"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35px"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35px"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35px"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer" style="padding-right:10px;"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35px"/> </a>
+<p align="center">
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Node Js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 </p>
+
 
 <br>
 
