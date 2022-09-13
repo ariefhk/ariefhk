@@ -35,9 +35,16 @@
 
 <br>
 <h3 align="center">Languages and Tools :</h3>
-## Technologies Stack
-
+<p align="center">
 <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+ <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+ <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+ <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+ <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+ <img align="center"   src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  />
+</p>
+
+
 
 
 
