@@ -42,8 +42,8 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<p align="center">
-<table>
+<!-- <p align="center"> -->
+<table align="center">
     <thead>
         <tr>
             <th align="left">Column1</th>
@@ -59,4 +59,4 @@
         </tr>
     </tbody>
 </table>
-</p>
+<!-- </p> -->
