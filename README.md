@@ -42,7 +42,7 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<p align="center"></p>
+<p align="center">
 <table>
     <thead>
         <tr>
@@ -59,4 +59,4 @@
         </tr>
     </tbody>
 </table>
-<p></p>
+</p>
