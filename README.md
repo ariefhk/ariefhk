@@ -29,6 +29,6 @@
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
 <h3 align="center">My Main Repository :</h3>
-<ol >
-<li align="center"><strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong></li>
-</ol>
+<p align="center">
+  1. <strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong>
+</p>
