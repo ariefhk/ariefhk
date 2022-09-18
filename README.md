@@ -29,11 +29,9 @@
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
 <h3 align="center">My Main Repository :</h3>
-<p align="center">
-  1. <strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong>
-  3. <strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong>
-  4. <strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong>
-  5. <strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong>
-  6. <strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong>
-</p>
+<p align="center">1. <strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong></p>
 <p align="center">2. <strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Dev</a></strong></p>
+<p align="center">3. <strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong></p>
+<p align="center">4. <strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong></p>
+<p align="center">5. <strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong></p>
+<p align="center">6. <strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong></p>
