@@ -31,9 +31,9 @@
 <h3 align="center">My Main Repository :</h3>
 <p align="center">
   1. <strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong>
-  2. <strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Dev</a></strong>
   3. <strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong>
   4. <strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong>
   5. <strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong>
   6. <strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong>
 </p>
+<p align="center">2. <strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Dev</a></strong></p>
