@@ -29,34 +29,37 @@
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
 <h3 align="center">My Main Repository :</h3>
-<p align="center">1. <strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong></p>
-<p align="center">2. <strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Dev</a></strong></p>
-<p align="center">3. <strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong></p>
-<p align="center">4. <strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong></p>
-<p align="center">5. <strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong></p>
-<p align="center">6. <strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong></p>
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-<!-- <p align="center"> -->
 <table align="center">
     <thead>
         <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
+            <th align="left">No</th>
+            <th align="center">Repository</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
+            <td align="left">1.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong></td>
+        </tr>
+       <tr>
+            <td align="left">2.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Dev</a></strong></td>
+        </tr>
+      <tr>
+            <td align="left">3.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong></td>
+        </tr>
+      <tr>
+            <td align="left">4.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong></td>
+        </tr>
+        <tr>
+            <td align="left">5.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong></td>
+        </tr>
+        <tr>
+            <td align="left">6.</td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong></td>
         </tr>
     </tbody>
 </table>
-<!-- </p> -->
