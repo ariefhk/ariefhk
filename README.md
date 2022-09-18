@@ -36,9 +36,8 @@
 <p align="center">5. <strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong></p>
 <p align="center">6. <strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong></p>
 
-<p align="center">
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-</p>
