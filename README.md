@@ -28,7 +28,7 @@
 </p>
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
-<h3 align="center">My Main Repository :</h3>
+<h3 align="center">Main Repository :</h3>
 <table align="center">
     <thead>
         <tr>
