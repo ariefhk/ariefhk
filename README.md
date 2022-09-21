@@ -55,7 +55,7 @@
         </tr>
         <tr>
             <td align="left">5.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker">MSIB BISA AI Event</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md">MSIB BISA AI Event</a></strong></td>
         </tr>
         <tr>
             <td align="left">6.</td>
