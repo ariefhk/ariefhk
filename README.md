@@ -43,7 +43,7 @@
         </tr>
        <tr>
             <td align="left">2.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Resource-for-Dev">Resource for Development</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md">Resource for Development</a></strong></td>
         </tr>
       <tr>
             <td align="left">3.</td>
