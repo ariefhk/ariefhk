@@ -59,7 +59,7 @@
         </tr>
         <tr>
             <td align="left">6.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Path-of-Repo">Path of Repository</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md">Path of Repository</a></strong></td>
         </tr>
     </tbody>
 </table>
