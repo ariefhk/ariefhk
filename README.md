@@ -51,7 +51,7 @@
         </tr>
       <tr>
             <td align="left">4.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Just-For-Curiousity">Just For My Curiosity</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md">Just For My Curiosity</a></strong></td>
         </tr>
         <tr>
             <td align="left">5.</td>
