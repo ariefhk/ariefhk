@@ -71,12 +71,19 @@
           <td align="left">
             <strong
               ><a
+                href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md"
+                >MSIB BISA AI Event</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
                 href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md"
                 >Free Learning Program Resource</a
               ></strong
             >
           </td>
-          <td align="left"></td>
           <td align="left">
             <strong
               ><a
@@ -85,19 +92,6 @@
               ></strong
             >
           </td>
-        </tr>
-        <tr>
-          <td align="left">3.</td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md"
-                >MSIB BISA AI Event</a
-              ></strong
-            >
-          </td>
-          <td align="left"></td>
-          <td align="left"></td>
         </tr>
       </tbody>
     </table>
