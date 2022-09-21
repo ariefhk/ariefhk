@@ -27,39 +27,104 @@
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  /></a>
 </p>
 <br>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p>
-<h3 align="center">Main Repository :</h3>
-<table align="center">
-    <thead>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p><br>
+<h2 align="center">PATH OF REPOSITORY</h2>
+ <h3 align="center">Main :</h3>
+    <table align="center">
+      <thead>
         <tr>
-            <th align="left">No</th>
-            <th align="center">Repository</th>
+          <th align="left">No</th>
+          <th align="center">Repository</th>
         </tr>
-    </thead>
-    <tbody>
+      </thead>
+      <tbody>
         <tr>
-            <td align="left">1.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/What-I-have-been-built/blob/main/README.md">What I Have Been Built</a></strong></td>
-        </tr>
-       <tr>
-            <td align="left">2.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md">Resource for Development</a></strong></td>
-        </tr>
-      <tr>
-            <td align="left">3.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md">Free Learning Program Resource</a></strong></td>
-        </tr>
-      <tr>
-            <td align="left">4.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md">Just For My Curiosity</a></strong></td>
+          <td align="left">1.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/What-I-have-been-built/blob/main/README.md"
+                >What I Have Been Built</a
+              ></strong
+            >
+          </td>
         </tr>
         <tr>
-            <td align="left">5.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md">MSIB BISA AI Event</a></strong></td>
+          <td align="left">2.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md"
+                >Free Learning Program Resource</a
+              ></strong
+            >
+          </td>
         </tr>
         <tr>
-            <td align="left">6.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md">Path of Repository</a></strong></td>
+          <td align="left">3.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md"
+                >MSIB BISA AI Event</a
+              ></strong
+            >
+          </td>
         </tr>
-    </tbody>
-</table>
+      </tbody>
+    </table><br>
+    <h3 align="center">For Development :</h3>
+    <table align="center">
+      <thead>
+        <tr>
+          <th align="left">No</th>
+          <th align="center">Repository</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left">1.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
+                >Resource for Development</a
+              ></strong
+            >
+          </td>
+        </tr>
+      </tbody>
+    </table><br>
+<h3 align="center">Miscellanous :</h3>
+    <table align="center">
+      <thead>
+        <tr>
+          <th align="left">No</th>
+          <th align="center">Repository</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="left">1.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md"
+                >Just For My Curiosity</a
+              ></strong
+            >
+          </td>
+        </tr>
+        <tr>
+          <td align="left">2.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md"
+                >Path of Repository</a
+              ></strong
+            >
+          </td>
+        </tr>
+      </tbody>
+    </table>
