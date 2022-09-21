@@ -39,7 +39,7 @@
     <tbody>
         <tr>
             <td align="left">1.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/What-I-have-been-built">What I Have Been Built</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/What-I-have-been-built/blob/main/README.md">What I Have Been Built</a></strong></td>
         </tr>
        <tr>
             <td align="left">2.</td>
