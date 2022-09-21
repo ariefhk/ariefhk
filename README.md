@@ -33,7 +33,7 @@
       <thead>
         <tr>
           <th align="left">No</th>
-          <th align="center">Main & Portofolio</th>
+          <th align="center">Portofolio</th>
           <th align="center">For Development</th>
           <th align="center">Miscellanous</th>
         </tr>
