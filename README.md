@@ -29,12 +29,13 @@
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark&langs_count=8" /></p><br>
 <h2 align="center">PATH OF REPOSITORY</h2>
- <h3 align="center">Main :</h3>
     <table align="center">
       <thead>
         <tr>
           <th align="left">No</th>
-          <th align="center">Repository</th>
+          <th align="center">Main & Portofolio</th>
+          <th align="center">For Development</th>
+          <th align="center">Miscellanous</th>
         </tr>
       </thead>
       <tbody>
@@ -45,6 +46,22 @@
               ><a
                 href="https://github.com/ariefhk/What-I-have-been-built/blob/main/README.md"
                 >What I Have Been Built</a
+              ></strong
+            >
+          </td>
+           <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
+                >Resource for Development</a
+              ></strong
+            >
+          </td>
+           <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md"
+                >Just For My Curiosity</a
               ></strong
             >
           </td>
@@ -59,6 +76,15 @@
               ></strong
             >
           </td>
+          <td align="left"></td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md"
+                >Path of Repository</a
+              ></strong
+            >
+          </td>
         </tr>
         <tr>
           <td align="left">3.</td>
@@ -70,61 +96,9 @@
               ></strong
             >
           </td>
-        </tr>
-      </tbody>
-    </table><br>
-    <h3 align="center">For Development :</h3>
-    <table align="center">
-      <thead>
-        <tr>
-          <th align="left">No</th>
-          <th align="center">Repository</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="left">1.</td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
-                >Resource for Development</a
-              ></strong
-            >
-          </td>
-        </tr>
-      </tbody>
-    </table><br>
-<h3 align="center">Miscellanous :</h3>
-    <table align="center">
-      <thead>
-        <tr>
-          <th align="left">No</th>
-          <th align="center">Repository</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="left">1.</td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md"
-                >Just For My Curiosity</a
-              ></strong
-            >
-          </td>
-        </tr>
-        <tr>
-          <td align="left">2.</td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md"
-                >Path of Repository</a
-              ></strong
-            >
-          </td>
+          <td align="left"></td>
+          <td align="left"></td>
         </tr>
       </tbody>
     </table>
+   
