@@ -47,7 +47,7 @@
         </tr>
       <tr>
             <td align="left">3.</td>
-            <td align="left"><strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource">Free Learning Program Resource</a></strong></td>
+            <td align="left"><strong><a href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md">Free Learning Program Resource</a></strong></td>
         </tr>
       <tr>
             <td align="left">4.</td>
