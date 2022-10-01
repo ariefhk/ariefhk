@@ -93,6 +93,30 @@
             >
           </td>
         </tr>
+         <tr>
+          <td align="left">3.</td>
+          <td align="left">
+            <strong
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Fix-Error-Git/blob/main/README.md"
+                >Fix Error Git</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Cheat-Sheets/blob/main/README.md"
+                >Cheat Sheet</a
+              ></strong
+            >
+          </td>
+        </tr>
       </tbody>
     </table>
    
