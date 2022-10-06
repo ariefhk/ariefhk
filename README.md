@@ -28,6 +28,7 @@
 </p>
 <br>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
+![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefhk&show_icons=true&theme=github_dark)
 <h3 align="center">PATH OF REPOSITORY</h3>
     <table align="center">
       <thead>
