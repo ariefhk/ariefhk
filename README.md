@@ -27,7 +27,7 @@
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  /></a>
 </p>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark&layout=compact" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p>
 <h3 align="center">PATH OF REPOSITORY</h3>
     <table align="center">
       <thead>
