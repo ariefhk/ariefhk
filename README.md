@@ -28,7 +28,7 @@
 </p>
 <br>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
-<p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
+
 <h3 align="center">PATH OF REPOSITORY</h3>
     <table align="center">
       <thead>
