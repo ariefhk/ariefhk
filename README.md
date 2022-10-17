@@ -46,8 +46,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/What-I-have-been-built/blob/main/README.md"
-                >What I Have Been Built</a
+                href="https://github.com/ariefhk/Apps/blob/main/README.md"
+                >Apps</a
               ></strong
             >
           </td>
@@ -73,8 +73,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/MSIB-BisaAi-Ai_Hacker/blob/main/README.md"
-                >MSIB BISA AI Event</a
+                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
+                >Web</a
               ></strong
             >
           </td>
@@ -99,6 +99,9 @@
           <td align="left">3.</td>
           <td align="left">
             <strong
+              ><a
+                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
+                >Mobile</a
               ></strong
             >
           </td>
@@ -116,6 +119,50 @@
                 href="https://github.com/ariefhk/Cheat-Sheets/blob/main/README.md"
                 >Cheat Sheet</a
               ></strong
+            >
+          </td>
+        </tr>
+         <tr>
+          <td align="left">4.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                >DS/ML/DL</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              >
+             </strong
+            >
+          </td>
+        </tr>
+         <tr>
+          <td align="left">5.</td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
+                >Slicing4Life</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              >
+             </strong
             >
           </td>
         </tr>
