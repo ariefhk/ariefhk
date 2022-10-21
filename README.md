@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
 <a href="https://instagram.com/ariefrh.dev" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
-<a href="https://www.youtube.com/channel/UCh-ogojKcj7FwhKSHNL_Vwg" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
+<a href="https://www.youtube.com/channel/UCvslj42lCyg17lnFbEzwfSw" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
 </p>
 
 <br>
