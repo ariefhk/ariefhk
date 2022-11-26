@@ -46,8 +46,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Apps/blob/main/README.md"
-                >Apps</a
+                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
+                >Web</a
               ></strong
             >
           </td>
@@ -73,8 +73,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
-                >Web</a
+                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
+                >Mobile</a
               ></strong
             >
           </td>
@@ -100,8 +100,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
-                >Mobile</a
+                href="https://github.com/ariefhk/Apps/blob/main/README.md"
+                >Apps</a
               ></strong
             >
           </td>
@@ -127,8 +127,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
-                >DS/ML/DL</a
+                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
+                >Slicing4Life</a
               ></strong
             >
           </td>
@@ -149,8 +149,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
-                >Slicing4Life</a
+                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                >DS/ML/DL</a
               ></strong
             >
           </td>
