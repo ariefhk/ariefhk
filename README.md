@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://www.figma.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="ariefrhk"  /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/TailwindCss-1572B6?style=for-the-badge&logo=TailwindCss&logoColor=white" alt="ariefrhk"  /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
 <a href="https://reactnative.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=React&logoColor=white" alt="ariefrhk"  /></a>
