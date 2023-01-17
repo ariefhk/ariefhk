@@ -35,6 +35,7 @@
         <tr>
           <th align="left">No</th>
           <th align="center">Portofolio</th>
+          <th align="center">My Certificates</th>
           <th align="center">For Development</th>
           <th align="center">Miscellanous</th>
         </tr>
