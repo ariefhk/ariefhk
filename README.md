@@ -37,8 +37,7 @@
           <th align="center">Portofolio</th>
           <th align="center">My Certificates</th>
           <th align="center">Learning Journey</th>
-          <th align="center">My Development Tools</th>
-          <th align="center">Miscellanous</th>
+          <th align="center">Other</th>
         </tr>
       </thead>
       <tbody>
