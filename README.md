@@ -23,7 +23,6 @@
 <a href="https://reactjs.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
 <a href="https://reactnative.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=React&logoColor=white" alt="ariefrhk"  /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="center" src="https://img.shields.io/badge/Node Js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://www.python.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="ariefrhk"  /></a>
 </p>
 <br>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
