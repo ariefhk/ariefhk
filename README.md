@@ -44,7 +44,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
+                href="https://github.com/ariefhk/Design-to-Code/blob/main/README.md"
                 >Design to Code</a
               ></strong
             >
