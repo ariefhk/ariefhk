@@ -34,7 +34,6 @@
         <tr>
           <th align="left">No</th>
           <th align="center">Portofolio</th>
-          <th align="center">My Certificates</th>
           <th align="center">Learning Journey</th>
           <th align="center">Other</th>
         </tr>
@@ -46,7 +45,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
-                >Web</a
+                >Design to Code</a
               ></strong
             >
           </td>
@@ -54,7 +53,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
-                >Resource for Development</a
+                >Web</a
               ></strong
             >
           </td>
@@ -62,7 +61,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md"
-                >Just For My Curiosity</a
+                >Assesment Preparation</a
               ></strong
             >
           </td>
@@ -73,7 +72,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
-                >Mobile</a
+                >Web Apps</a
               ></strong
             >
           </td>
@@ -81,7 +80,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md"
-                >Free Learning Program Resource</a
+                >CSS Framework</a
               ></strong
             >
           </td>
@@ -89,7 +88,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md"
-                >Path of Repository</a
+                >Certificates</a
               ></strong
             >
           </td>
@@ -100,7 +99,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Apps/blob/main/README.md"
-                >Apps</a
+                >Mobile Apps</a
               ></strong
             >
           </td>
@@ -108,7 +107,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Fix-Error-Git/blob/main/README.md"
-                >Fix Error Git</a
+                >Language</a
               ></strong
             >
           </td>
@@ -116,7 +115,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Cheat-Sheets/blob/main/README.md"
-                >Cheat Sheet</a
+                >Resource for Dev</a
               ></strong
             >
           </td>
@@ -127,12 +126,15 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
-                >Slicing4Life</a
+                >UI/UX</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
+              ><a
+                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
+                >React Js</a
               ></strong
             >
           </td>
@@ -147,14 +149,36 @@
           <td align="left">5.</td>
           <td align="left">
             <strong
-              ><a
-                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
-                >DS/ML/DL</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
+              ><a
+                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                >React Native</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              >
+             </strong
+            >
+          </td>
+        </tr>
+         <tr>
+          <td align="left">6.</td>
+          <td align="left">
+            <strong
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                >Other</a
               ></strong
             >
           </td>
