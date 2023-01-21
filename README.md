@@ -52,7 +52,7 @@
            <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
+                href="https://github.com/ariefhk/Web/blob/main/README.md"
                 >Web</a
               ></strong
             >
@@ -60,8 +60,8 @@
            <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Just-For-Curiousity/blob/main/README.md"
-                >Assesment Preparation</a
+                href="https://github.com/ariefhk/Interview-Preparation/blob/main/README.md"
+                >Interview Preparation</a
               ></strong
             >
           </td>
@@ -71,7 +71,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
+                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
                 >Web Apps</a
               ></strong
             >
@@ -79,7 +79,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Free-Learning-Progmn-Resource/blob/main/README.md"
+                href="https://github.com/ariefhk/CSS-Framework/blob/main/README.md"
                 >CSS Framework</a
               ></strong
             >
@@ -87,7 +87,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Path-of-Repo/blob/main/README.md"
+                href="https://github.com/ariefhk/Certificates/blob/main/README.md"
                 >Certificates</a
               ></strong
             >
@@ -98,7 +98,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Apps/blob/main/README.md"
+                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
                 >Mobile Apps</a
               ></strong
             >
@@ -106,7 +106,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Fix-Error-Git/blob/main/README.md"
+                href="https://github.com/ariefhk/Language/blob/main/README.md"
                 >Language</a
               ></strong
             >
@@ -114,8 +114,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Cheat-Sheets/blob/main/README.md"
-                >Resource for Dev</a
+                href="https://github.com/ariefhk/Resource-for-Development/blob/main/README.md"
+                >Resource for Development</a
               ></strong
             >
           </td>
@@ -125,7 +125,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
+                href="https://github.com/ariefhk/UI-UX/blob/main/README.md"
                 >UI/UX</a
               ></strong
             >
@@ -133,7 +133,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Slicing4Life/blob/main/README.md"
+                href="https://github.com/ariefhk/React-Js/blob/main/README.md"
                 >React Js</a
               ></strong
             >
@@ -155,7 +155,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                href="https://github.com/ariefhk/React-Native/blob/main/README.md"
                 >React Native</a
               ></strong
             >
@@ -177,7 +177,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/DS-ML-DL/blob/main/README.md"
+                href="https://github.com/ariefhk/Other/blob/main/README.md"
                 >Other</a
               ></strong
             >
