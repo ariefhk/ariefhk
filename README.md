@@ -134,7 +134,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/React-Js/blob/main/README.md"
-                >React Js</a
+                >React Ecosystem</a
               ></strong
             >
           </td>
@@ -156,28 +156,6 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/React-Native/blob/main/README.md"
-                >React Native</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              >
-             </strong
-            >
-          </td>
-        </tr>
-         <tr>
-          <td align="left">6.</td>
-          <td align="left">
-            <strong
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/Other/blob/main/README.md"
                 >Other</a
               ></strong
             >
