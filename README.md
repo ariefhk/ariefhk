@@ -155,7 +155,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/React-Native/blob/main/README.md"
+                href="https://github.com/ariefhk/Other-Technology/blob/main/README.md"
                 >Other Technology</a
               ></strong
             >
