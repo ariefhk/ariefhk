@@ -114,7 +114,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Resource-for-Development/blob/main/README.md"
+                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
                 >Resource for Development</a
               ></strong
             >
