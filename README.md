@@ -29,14 +29,14 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
 
-<h3 align="center">PATH OF REPOSITORY</h3>
+ <h3 align="center">PATH OF REPOSITORY</h3>
     <table align="center">
       <thead>
         <tr>
           <th align="left">No</th>
           <th align="center">Portofolio</th>
-          <th align="center">Learning Journey</th>
-          <th align="center">Other</th>
+          <th align="center">Learning History</th>
+          <th align="center">Dev Tools</th>
         </tr>
       </thead>
       <tbody>
@@ -45,24 +45,24 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Design-to-Code/blob/main/README.md"
-                >Design to Code</a
+                href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
+                >Slicing Design</a
               ></strong
             >
           </td>
-           <td align="left">
+          <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Web/blob/main/README.md"
+                href="https://github.com/ariefhk/learn-web/blob/main/README.md"
                 >Web</a
               ></strong
             >
           </td>
-           <td align="left">
+          <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Interview-Preparation/blob/main/README.md"
-                >Interview Preparation</a
+                href="https://github.com/ariefhk/dev-free-apis/blob/main/README.md"
+                >Free APIs</a
               ></strong
             >
           </td>
@@ -72,102 +72,76 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Web-Apps/blob/main/README.md"
-                >Web Apps</a
+                href="https://github.com/ariefhk/porto-web-app/blob/main/README.md"
+                >Web App</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/CSS-Framework/blob/main/README.md"
-                >CSS Framework</a
+                href="https://github.com/ariefhk/learn-mobile/blob/main/README.md"
+                >Mobile</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Certificates/blob/main/README.md"
-                >Certificates</a
+                href="https://github.com/ariefhk/dev-best-library/blob/main/README.md"
+                >Best Library</a
               ></strong
             >
           </td>
         </tr>
-         <tr>
+        <tr>
           <td align="left">3.</td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Mobile-Apps/blob/main/README.md"
-                >Mobile Apps</a
+                href="https://github.com/ariefhk/porto-mobile-app/blob/main/README.md"
+                >Mobile App</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Language/blob/main/README.md"
-                >Language</a
+                href="https://github.com/ariefhk/learn-ml-dl/blob/main/README.md"
+                >ML/DL</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/Resource-for-Dev/blob/main/README.md"
-                >Resource for Development</a
+                href="https://github.com/ariefhk/dev-resource-of-library/blob/main/README.md"
+                >Resource for Dev</a
               ></strong
             >
           </td>
         </tr>
-         <tr>
+        <tr>
           <td align="left">4.</td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/UI-UX/blob/main/README.md"
-                >UI/UX</a
+                href="https://github.com/ariefhk/porto-other/blob/main/README.md"
+                >Other</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/React-Ecosystem/blob/main/README.md"
-                >React Ecosystem</a
+                href="https://github.com/ariefhk/learn-other/blob/main/README.md"
+                >Other</a
               ></strong
             >
           </td>
           <td align="left">
-            <strong
-              >
-             </strong
-            >
-          </td>
-        </tr>
-         <tr>
-          <td align="left">5.</td>
-          <td align="left">
-            <strong
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/Other-Technology/blob/main/README.md"
-                >Other Technology</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              >
-             </strong
-            >
+            <strong> </strong>
           </td>
         </tr>
       </tbody>
     </table>
-   
