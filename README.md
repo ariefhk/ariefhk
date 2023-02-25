@@ -115,7 +115,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/dev-resource-of-library/blob/main/README.md"
+                href="https://github.com/ariefhk/dev-resource-for-development/blob/main/README.md"
                 >Resource for Dev</a
               ></strong
             >
