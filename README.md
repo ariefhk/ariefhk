@@ -140,7 +140,10 @@
             >
           </td>
           <td align="left">
-            <strong> </strong>
+            <strong><a
+                href="https://github.com/ariefhk/certificate-hunter/blob/main/README.md"
+                >Certificate Hunter</a
+              > </strong>
           </td>
         </tr>
       </tbody>
