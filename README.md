@@ -18,12 +18,10 @@
 <br>
 <h3 align="center">Languages and Tools :</h3>
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/TailwindCss-1572B6?style=for-the-badge&logo=TailwindCss&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/BoostrapCSS-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="ariefrhk"  /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
-<a href="https://reactnative.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=React&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img align="center" src="https://img.shields.io/badge/Node Js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="ariefrhk"  /></a>
 </p>
 <br>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
