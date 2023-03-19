@@ -133,7 +133,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/learn-other/blob/main/README.md"
-                >Other</a
+                >Challenge</a
               ></strong
             >
           </td>
