@@ -125,7 +125,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/porto-other/blob/main/README.md"
-                >Other</a
+                >ML/DL</a
               ></strong
             >
           </td>
