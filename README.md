@@ -52,7 +52,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/learn-web/blob/main/README.md"
-                >Web</a
+                >Challenge</a
               ></strong
             >
           </td>
@@ -78,8 +78,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/learn-mobile/blob/main/README.md"
-                >Mobile</a
+                href="https://github.com/ariefhk/learn-web/blob/main/README.md"
+                >WEB</a
               ></strong
             >
           </td>
@@ -105,8 +105,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/learn-ml-dl/blob/main/README.md"
-                >ML/DL</a
+                href="https://github.com/ariefhk/learn-mobile/blob/main/README.md"
+                >Mobile</a
               ></strong
             >
           </td>
@@ -132,8 +132,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/learn-other/blob/main/README.md"
-                >Challenge</a
+                href="https://github.com/ariefhk/learn-ml-dl/blob/main/README.md"
+                >ML/DL</a
               ></strong
             >
           </td>
