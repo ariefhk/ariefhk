@@ -53,7 +53,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/learn-web/blob/main/README.md"
+                href="https://github.com/ariefhk/learn-challenge/blob/main/README.md"
                 >Challenge</a
               ></strong
             >
