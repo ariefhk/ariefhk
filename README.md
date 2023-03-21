@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&duration=2300&pause=700&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=Computer+Science+Student;JavaScript+Enthusiast;Always+Learning+New+Things">
   </a>
-</h3>
+</h3> -->
 <br>
 <p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p>
 <br>
