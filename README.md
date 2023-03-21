@@ -6,25 +6,7 @@
 </h3> -->
 <br>
 <p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p>
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
-<h3 align="center">LET'S CONNECT WITH ME :</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
-<a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
-<a href="https://www.youtube.com/channel/UCvslj42lCyg17lnFbEzwfSw" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
-<a href="https://replit.com/@ariefhk" target="blank" ><img align="center" src="https://img.shields.io/badge/Replit-225763?style=for-the-badge&logo=Replit&logoColor=E34F26" alt="mengoding id" /></a>
-</p>
-
-<br>
-<h3 align="center">TECH STACK :</h3>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/BootstrapCSS-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
-</p>
-<br>
 <h3 align="center">PORTFOLIO</h3>
     <table align="center">
       <thead>
@@ -64,6 +46,22 @@
         </tr>
       </thead>
     </table>
+<br> 
+<h3 align="center">LET'S CONNECT WITH ME :</h3>
+<p align="center">
+<a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
+<a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
+<a href="https://www.youtube.com/channel/UCvslj42lCyg17lnFbEzwfSw" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
+<a href="https://replit.com/@ariefhk" target="blank" ><img align="center" src="https://img.shields.io/badge/Replit-225763?style=for-the-badge&logo=Replit&logoColor=E34F26" alt="mengoding id" /></a>
+</p>
+<br>
+<h3 align="center">TECH STACK :</h3>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/BootstrapCSS-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
+</p>
 <br>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
