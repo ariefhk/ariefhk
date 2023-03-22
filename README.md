@@ -63,18 +63,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
 </p>
 <br>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&theme=github_dark" /></p> -->
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
-
-
-
+<br/>
  <h3 align="center">PATH OF REPOSITORY</h3>
-    <table align="center">
+  <table align="center">
       <thead>
         <tr>
           <th align="left">No</th>
-          <th align="center">Portofolio</th>
-          <th align="center">Learning History</th>
+          <th align="center">Learning</th>
           <th align="center">Dev Tools</th>
         </tr>
       </thead>
@@ -85,15 +81,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
-                >Slicing Design</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/learn-challenge/blob/main/README.md"
-                >Challenge</a
+                >Language</a
               ></strong
             >
           </td>
@@ -101,7 +89,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/dev-free-apis/blob/main/README.md"
-                >Free APIs</a
+                >Deployment</a
               ></strong
             >
           </td>
@@ -112,7 +100,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/porto-web-app/blob/main/README.md"
-                >Web App</a
+                >Web</a
               ></strong
             >
           </td>
@@ -120,15 +108,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/learn-web/blob/main/README.md"
-                >WEB</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/dev-best-library/blob/main/README.md"
-                >Best Library</a
+                >Boilerplate</a
               ></strong
             >
           </td>
@@ -139,14 +119,6 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/porto-mobile-app/blob/main/README.md"
-                >Mobile App</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/learn-mobile/blob/main/README.md"
                 >Mobile</a
               ></strong
             >
@@ -154,8 +126,8 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/dev-resource-for-development/blob/main/README.md"
-                >Resource for Dev</a
+                href="https://github.com/ariefhk/learn-mobile/blob/main/README.md"
+                >API</a
               ></strong
             >
           </td>
@@ -174,15 +146,9 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/learn-ml-dl/blob/main/README.md"
-                >ML/DL</a
+                >Free Assets</a
               ></strong
             >
-          </td>
-          <td align="left">
-            <strong><a
-                href="https://github.com/ariefhk/certificate-hunter/blob/main/README.md"
-                >Certificate Hunter</a
-              > </strong>
           </td>
         </tr>
       </tbody>
