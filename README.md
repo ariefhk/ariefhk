@@ -14,7 +14,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
+                href="https://github.com/ariefhk/arx-porto-slicing-web/blob/main/README.md"
                 >Slicing Design</a
               ></strong
             >
@@ -22,7 +22,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
+                href="https://github.com/ariefhk/arx-porto-web-app/blob/main/README.md"
                 >Web App</a
               ></strong
             >
@@ -30,7 +30,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
+                href="https://github.com/ariefhk/arx-porto-mobile-app/blob/main/README.md"
                 >Mobile App</a
               ></strong
             >
@@ -38,7 +38,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/porto-slicing-design/blob/main/README.md"
+                href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
                 >Ml/DL</a
               ></strong
             >
