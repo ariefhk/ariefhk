@@ -1,9 +1,4 @@
 <h1 align="center">Hi , I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&duration=2300&pause=700&color=E4E4E4&background=000000E4&center=true&vCenter=true&width=435&lines=Computer+Science+Student;JavaScript+Enthusiast;Always+Learning+New+Things">
-  </a>
-</h3> -->
 <br>
 <p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
@@ -39,7 +34,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
-                >Ml/DL</a
+                >Other</a
               ></strong
             >
           </td>
@@ -57,16 +52,59 @@
 <br>
 <h3 align="center">TECH STACK :</h3>
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/BootstrapCSS-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
+<a href="https://tailwindcss.com/docs/installation" target="_blank"><img align="center" src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://javascript.info" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
+<a href="https://www.typescriptlang.org/docs" target="_blank"><img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://react.dev/reference/react" target="_blank"><img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
+<a href="https://reactnative.dev/docs/next/intro-react-native-components" target="_blank"><img align="center" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
+<a href="https://nodejs.org/en/docs" target="_blank"><img align="center" src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://www.postgresql.org/docs" target="_blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://www.mongodb.com/docs/manual/tutorial/getting-started" target="_blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="ariefrhk"  /></a>
 </p>
+
 <br>
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
 <br/>
- <h3 align="center">PATH OF REPOSITORY</h3>
+<!--  <h3 align="center">REPOSITORY FOR DEVELOPMENT TOOLS</h3>
   <table align="center">
+      <thead>
+        <tr>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/arx-porto-slicing-web/blob/main/README.md"
+                >Slicing Design</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/arx-porto-web-app/blob/main/README.md"
+                >Web App</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/arx-porto-mobile-app/blob/main/README.md"
+                >Mobile App</a
+              ></strong
+            >
+          </td>
+          <td align="left">
+            <strong
+              ><a
+                href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
+                >Other</a
+              ></strong
+            >
+          </td>
+        </tr>
+      </thead>
+    </table> -->
+<!--   <table align="center">
       <thead>
         <tr>
           <th align="left">No</th>
@@ -152,4 +190,4 @@
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> -->
