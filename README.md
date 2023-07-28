@@ -58,8 +58,7 @@
 <a href="https://react.dev/reference/react" target="_blank"><img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
 <a href="https://reactnative.dev/docs/next/intro-react-native-components" target="_blank"><img align="center" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="ariefrhk"  /></a>
 <a href="https://nodejs.org/en/docs" target="_blank"><img align="center" src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://www.postgresql.org/docs" target="_blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="ariefrhk"  /></a>
-<a href="https://www.mongodb.com/docs/manual/tutorial/getting-started" target="_blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="ariefrhk"  /></a>
+<a href="https://expressjs.com" target="_blank"><img align="center" src="https://img.shields.io/badge/ExpressJs-black?style=for-the-badge&logo=Express&logoColor=white" alt="ariefrhk"  /></a>
 </p>
 
 <br>
