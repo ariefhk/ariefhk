@@ -42,7 +42,7 @@
       </thead>
     </table>
 <br> 
-<h3 align="center">LET'S CONNECT WITH ME :</h3>
+<h3 align="center">LET'S CONNECT :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
 <a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
