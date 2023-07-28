@@ -42,7 +42,7 @@
       </thead>
     </table>
 <br> 
-<h3 align="center">LET'S CONNECT :</h3>
+<h3 align="center">LET'S CONNECT</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
 <a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
@@ -50,7 +50,7 @@
 <a href="https://replit.com/@ariefhk" target="blank" ><img align="center" src="https://img.shields.io/badge/Replit-225763?style=for-the-badge&logo=Replit&logoColor=E34F26" alt="mengoding id" /></a>
 </p>
 <br>
-<h3 align="center">TECH STACK :</h3>
+<h3 align="center">TECH STACK</h3>
 <p align="center">
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img align="center" src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="ariefrhk"  /></a>
 <a href="https://javascript.info" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="ariefrhk"  /></a>
