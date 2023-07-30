@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p>
+<!-- <p align="center"><img src='https://github.com/ariefhk/Resource-for-Dev/blob/main/Profile/code.gif' alt='github' height='300' width='350' ></p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
 <h3 align="center">PORTFOLIO</h3>
     <table align="center">
