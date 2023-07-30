@@ -64,7 +64,7 @@
 <br>
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
 <br/>
-<!--  <h3 align="center">REPOSITORY FOR DEVELOPMENT TOOLS</h3>
+ <h3 align="center">MOST USED REPOSITORY</h3>
   <table align="center">
       <thead>
         <tr>
@@ -72,7 +72,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/arx-porto-slicing-web/blob/main/README.md"
-                >Slicing Design</a
+                >Learning Documentation</a
               ></strong
             >
           </td>
@@ -80,29 +80,21 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/arx-porto-web-app/blob/main/README.md"
-                >Web App</a
+                >Awesome Library</a
               ></strong
             >
           </td>
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-mobile-app/blob/main/README.md"
-                >Mobile App</a
-              ></strong
-            >
-          </td>
-          <td align="left">
-            <strong
-              ><a
-                href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
-                >Other</a
+                href="https://github.com/ariefhk/development-resources/blob/main/README.md"
+                >Development Tools</a
               ></strong
             >
           </td>
         </tr>
       </thead>
-    </table> -->
+    </table>
 <!--   <table align="center">
       <thead>
         <tr>
