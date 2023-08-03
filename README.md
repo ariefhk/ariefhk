@@ -1,6 +1,23 @@
 <h1 align="center">Hi , I'm Arief Rachman Hakim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p align="center"><img src='https://github.com/ariefhk/development-resources/blob/main/Images/code.gif' alt='github' height='300' width='350' ></p>
+<img align="right"  src='https://github.com/ariefhk/development-resources/blob/main/Images/code.gif' alt='github' height='300' width='350' >
+
+<br><br>
+- 🎯 I'm currently focused on web development or something with JS/TS Stacks.
+- 🌱 I'm also learning Go, PHP/Laravel, and some machine learning projects for fun.
+- 🙌 I’m very open to collaborate on software projects, especially in JS/TS Stacks.
+- 📫 How to reach me: Ask me via `Instagram` or `Linkedin`.
+- 😄 Pronouns: He/His.
+<br>
+
+<!--- :school: I am a `Junior` at Faculty of Computers & Informatics
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/10444513/Resume-ios_compressed.pdf).
+- :boom: You can visit my website from [here](https://youssef-bouhlel-portfolio.ml). -->
+<!-- <p align="right"><img src='https://github.com/ariefhk/development-resources/blob/main/Images/code.gif' alt='github' height='300' width='350' ></p> --> 
+<h3 align="center"><br></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
 <h3 align="center">PORTFOLIO</h3>
 <p align="center">(It can be clicked)</p>
