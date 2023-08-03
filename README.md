@@ -3,11 +3,11 @@
 <img align="right"  src='https://github.com/ariefhk/development-resources/blob/main/Images/code.gif' alt='github' height='300' width='350' >
 
 <br><br>
-- 🎯 I'm currently focused on web development with JS/TS Stacks.
+- 🎯 I'm currently focused on web development with JS Stacks.
   
 - 🌱 I'm also learning Go, PHP/Laravel, and some ML for fun.
   
-- 🙌 I’m open to collaborating, especially in JS/TS Stacks.
+- 🙌 I’m open to collaborating, especially in JS Stacks.
   
 - 📫 How to reach me: Ask me via `Instagram` or `Linkedin`.
   
