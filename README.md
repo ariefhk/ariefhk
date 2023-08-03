@@ -3,6 +3,7 @@
 <p align="center"><img src='https://github.com/ariefhk/development-resources/blob/main/Images/code.gif' alt='github' height='300' width='350' ></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariefhk&label=Profile%20views&color=0e75b6&style=flat" alt="Arief Rachman Hakim" /> </p>
 <h3 align="center">PORTFOLIO</h3>
+<p align="center">(It can be clicked)</p>
     <table align="center">
       <thead>
         <tr>
@@ -43,6 +44,7 @@
     </table>
 <br> 
 <h3 align="center">LET'S CONNECT</h3>
+<p align="center">(It can be clicked)</p>
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
 <a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
@@ -65,6 +67,7 @@
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
 <br/>
  <h3 align="center">MOST USED REPOSITORY</h3>
+ <p align="center">(It can be clicked)</p>
   <table align="center">
       <thead>
         <tr>
