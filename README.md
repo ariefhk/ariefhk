@@ -5,7 +5,7 @@
 <br><br>
 - 🎯 I'm currently focused on web development with JS/TS Stacks.
 - 🌱 I'm also learning Go, PHP/Laravel, and some ML for fun.
-- 🙌 I’m open to collaborating on software projects, especially in JS/TS Stacks.
+- 🙌 I’m open to collaborating, especially in JS/TS Stacks.
 - 📫 How to reach me: Ask me via `Instagram` or `Linkedin`.
 - 😄 Pronouns: He/His.
 <br>
