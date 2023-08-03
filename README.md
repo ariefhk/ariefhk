@@ -11,7 +11,7 @@
   
 - 📫 How to reach me: Ask me via `Instagram` or `Linkedin`.
   
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/Him.
 <br>
 
 <!--- :school: I am a `Junior` at Faculty of Computers & Informatics
