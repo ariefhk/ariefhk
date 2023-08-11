@@ -56,7 +56,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
-                >Other</a
+                >Cert/Achievement</a
               ></strong
             >
           </td>
