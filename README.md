@@ -5,7 +5,7 @@
 <br><br>
 - 🎯 I'm currently focused on web development with JS Stacks.
   
-- 🌱 I'm also learning Go, Android, and some ML for fun.
+- 🌱 I'm also learning Go, PHP/Laravel, and some ML for fun.
   
 - 🙌 I’m open to collaborating, especially in JS Stacks.
   
