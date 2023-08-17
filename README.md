@@ -95,7 +95,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-slicing-web/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-learning-documentation.md"
                 >Learning Documentation</a
               ></strong
             >
@@ -103,7 +103,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-web-app/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-awesome-library.md"
                 >Awesome Library</a
               ></strong
             >
