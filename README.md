@@ -31,7 +31,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-slicing-web/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-slicing-design.md"
                 >Slicing Design</a
               ></strong
             >
@@ -39,7 +39,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-web-app/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-web-app.md"
                 >Web App</a
               ></strong
             >
@@ -47,7 +47,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-mobile-app/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-mobile-app.md"
                 >Mobile App</a
               ></strong
             >
@@ -55,7 +55,7 @@
           <td align="left">
             <strong
               ><a
-                href="https://github.com/ariefhk/arx-porto-ml-dl/blob/main/README.md"
+                href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-certificate-achievement.md"
                 >Cert/Achievement</a
               ></strong
             >
