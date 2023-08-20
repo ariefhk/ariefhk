@@ -22,4 +22,12 @@
 <p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572393/certificates/AMIKOMPWT_English_Arief_Rachman_Hakim_g61rtz.png"/></p>
 <br/>
 
+<h2>Binar Academy</h2>
+<strong>Fullstack WEB - The Most Progressive Student</strong>
+<p><a href="https://drive.google.com/file/d/1IdQhZfb8OtJ6HJ5bMVRx9TGFXVHQDzbT/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572393/certificates/BINAR_FULLSTACK_The_Most_Progressive_Student_Arief_Rachman_Hakim_k9v6te.png"/></p>
+<br/>
+<strong>Fullstack WEB - Student Report</strong>
+<p><a href="https://drive.google.com/file/d/1XXYt-lPLJZbxbwb7ApfSvNFw0gSwfxhN/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="500" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572392/certificates/BINAR_FULLSTACK_Final_Report_Arief_Rachman_Hakim_f6klmc.png"/></p>
 
