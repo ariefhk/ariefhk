@@ -2,7 +2,7 @@
 
 <h2>University</h2>
 <strong>MSIB Fullstack WEB Binar</strong>
-<p><a target="_blank" href="https://drive.google.com/file/d/1BHzchlEfTeCGAGvXCV3Xzbpy2Cgkt41w/view?usp=sharing">Link to Certificate</a></p>
+<p><a  href="https://drive.google.com/file/d/1BHzchlEfTeCGAGvXCV3Xzbpy2Cgkt41w/view?usp=sharing">Link to Certificate</a></p>
 <p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572392/certificates/AMIKOMPWT_MSIB_Binar_Arief_Rachman_Hakim_fmaeg9.png"/></p>
 <br/>
 <strong>MSIB Teknologi Kecerdasan Artifisial (AI-HACKER) Bisa AI</strong>
