@@ -32,7 +32,7 @@
             <strong
               ><a
                 href="https://github.com/ariefhk/ariefhk/blob/main/ariefhk-slicing-design.md"
-                >Slicing Design</a
+                >Slicing UI</a
               ></strong
             >
           </td>
