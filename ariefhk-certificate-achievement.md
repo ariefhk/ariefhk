@@ -59,7 +59,23 @@
 <br/>
 
 <h2>DICODING Academy</h2>
+<strong>Pengenalan ke Logika Pemrograman (Programming Logic 101)</strong>
+<p><a href="https://drive.google.com/file/d/1GbKYgPdcBhqrQj4uh30wTqHGxbRhbdxX/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572395/certificates/DICODING_Pengenalan_ke_Logika_Pemrograman_101_Arief_Rachman_Hakim_dzfl5k.png"/></p>
+<br/>
 <strong>Belajar Dasar Pemrograman JavaScript</strong>
 <p><a href="https://drive.google.com/file/d/1G5B7IUKHajcLc0fRBApDnGhRSkG9DPhT/view?usp=sharing">Link to Certificate</a></p>
 <p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572394/certificates/DICODING_Belajar_Dasar_Pemrograman_JavaScript_Arief_Rachman_Hakim_sjo4nk.png"/></p>
+<br/>
+<strong>Belajar Dasar Pemrograman WEB</strong>
+<p><a href="https://drive.google.com/file/d/1yhWElauqSooSC3h9KotgZmHoTrBwEUXq/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572394/certificates/DICODING_Belajar_Dasar_Pemrograman_WEB_Arief_Rachman_Hakim_ru27qm.png"/></p>
+<br/>
+<strong>Belajar Membuat Front-End WEB untuk Pemula</strong>
+<p><a href="https://drive.google.com/file/d/1Fsx7u0tbzNivN0pQiqPy5V_rTfuM5i1d/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572394/certificates/DICODING_Belajar_Membuat_Fronted_WEB_untuk_Pemula_Arief_Rachman_Hakim_dbqjwh.png"/></p>
+<br/>
+<strong>Belajar Membuat Aplikasi WEB dengan React</strong>
+<p><a href="https://drive.google.com/file/d/1A4nY7crz90uyk1Uiidy-XCyg6q_F9JYP/view?usp=sharing">Link to Certificate</a></p>
+<p><img width="400" height="300" src="https://res.cloudinary.com/da0xxhohp/image/upload/v1692572394/certificates/DICODING_Belajar_Membuat_Aplikasi_WEB_dengan_React_Arief_Rachman_Hakim_mvl4ah.png"/></p>
 <br/>
