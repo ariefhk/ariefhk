@@ -5,7 +5,7 @@
 <p><a  href="https://github.com/ariefhk/learn-javascript">Link to Repository</a></p>
 <br/>
 <strong>2. Learn TypeScript</strong>
-<p><a  href="https://github.com/ariefhk/learn-react">Link to Repository</a></p>
+<p><a  href="https://github.com/ariefhk/learn-typescript">Link to Repository</a></p>
 <br/>
 <strong>3. Learn Golang</strong>
 <p><a  href="https://github.com/ariefhk/learn-go">Link to Repository</a></p>
