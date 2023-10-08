@@ -1,5 +1,10 @@
 <h1 align="center">Learning Documentation</h1><br/>
 
+<h2>Algorithm and Programming Concept</h2>
+<strong>1. Leet code journey</strong>
+<p><a  href="hhttps://github.com/ariefhk/leetcode-journey">Link to Repository</a></p>
+<br/>
+
 <h2>Languages</h2>
 <strong>1. Learn JavaScript</strong>
 <p><a  href="https://github.com/ariefhk/learn-javascript">Link to Repository</a></p>
