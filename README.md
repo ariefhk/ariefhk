@@ -68,7 +68,7 @@
 <p align="center">(It can be clicked)</p>
 <p align="center">
 <a href="https://linkedin.com/in/ariefrhk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2" alt="ariefrhk" /></a>
-<a href="https://instagram.com/ariefrh.showcase" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
+<a href="https://www.instagram.com/ariefrh.dev" target="blank" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="ariefrh.dev"/></a>
 <a href="https://www.youtube.com/channel/UCvslj42lCyg17lnFbEzwfSw" target="blank" ><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="mengoding id" /></a>
 <a href="https://replit.com/@ariefhk" target="blank" ><img align="center" src="https://img.shields.io/badge/Replit-225763?style=for-the-badge&logo=Replit&logoColor=E34F26" alt="mengoding id" /></a>
 </p>
