@@ -86,7 +86,7 @@
 
 <br>
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefhk&layout=compact&theme=github_dark"></p>
-<br/>
+<!-- <br/>
  <h3 align="center">MOST USED REPOSITORY</h3>
  <p align="center">(It can be clicked)</p>
   <table align="center">
@@ -118,7 +118,7 @@
           </td>
         </tr>
       </thead>
-    </table>
+    </table> -->
 <!--   <table align="center">
       <thead>
         <tr>
